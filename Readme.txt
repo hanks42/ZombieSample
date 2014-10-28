@@ -1,7 +1,7 @@
 Author: Jon Hanks
 Email: jonhanks@gmail.com
 
-This is a code sample project I did a while back to use for resume submissions and stuff. I thought I'd post it up.
+This is a code sample project I did a while back. I thought I'd post it up.
 It is basically a small game where there is a green zombie going around killing blue civilians. You move around a
 bomb with your mouse and try to blow up the zombie. The game demonstrates a game loop and state machine.
 
